@@ -1,2 +1,2 @@
 # hello-world
-first try
+print("z")
